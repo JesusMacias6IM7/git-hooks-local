@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo Rebasing is disabled for this repository.
+exit 1
